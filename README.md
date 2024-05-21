@@ -104,6 +104,6 @@ I value your feedback and contributions, and i strive to address issues promptly
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## References
-
+- Repo in [Paper with code](https://paperswithcode.com/paper/quantum-clustering-and-gaussian-mixtures).
 - Rahman, M., & Geiger, D. (2016). ["Quantum Clustering and Gaussian Mixtures"](https://arxiv.org/pdf/1612.09199v1).
 
