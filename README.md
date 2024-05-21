@@ -12,6 +12,7 @@ This repository contains a Python implementation of the paper ["Quantum Clusteri
 - [Results](#results)
 - [Examples](#examples)
 - [Contributing](#contributing)
+- [Reporting Issues and Mistakes](#reporting-issues-and-mistakes)
 - [License](#license)
 - [References](#references)
 
@@ -61,20 +62,42 @@ The quantum method outperforms classical Gaussian mixture methods by providing m
 ![Segmented_Image_Kmeans](Results/Segmented_Image_Kmeans.png)
 ![Segmented_Image_QGMM](Results/Segmented_Image_QGMM.png)
 
-For detailed results, refer to the `results` directory.
-
 ## Examples
 
 The Jupyter notebook file contains sample scripts demonstrating how to apply the quantum Gaussian mixture clustering to various images.
 
 ## Contributing
 
-We welcome contributions to enhance this project. To contribute, follow these steps:
+I welcome contributions to enhance this project. To contribute, follow these steps:
 
 1. Fork this repository.
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
+
+## Reporting Issues and Mistakes
+
+If you encounter any mistakes or issues in the code, i greatly appreciate your help in making this project better. Please follow the steps below to report any problems:
+
+1. **Check Existing Issues**: Before submitting a new issue, please check the [Issues]([https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab to see if your problem has already been reported. This helps us avoid duplicate reports and consolidate efforts.
+
+2. **Create a New Issue**:
+   - Go to the [Issues]([https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab in the repository.
+   - Click on the `New Issue` button.
+   - Provide a descriptive title for your issue.
+   - In the issue description, please include:
+     - A detailed description of the problem.
+     - Steps to reproduce the issue, if applicable.
+     - Any relevant code snippets, screenshots, or logs.
+     - The environment and version details (e.g., operating system, Python version, etc.).
+
+3. **Use Labels**: If possible, apply appropriate labels to your issue (e.g., `bug`, `enhancement`, `question`). This helps us categorize and prioritize the issues more efficiently.
+
+4. **Stay Updated**: After submitting an issue, you can track its progress and participate in discussions by following the issue. I may request additional information or clarification to help resolve the problem.
+
+5. **Contribute Fixes**: If you are able to fix the issue yourself, feel free to submit a pull request. Please follow the contribution guidelines provided in the repository.
+
+I value your feedback and contributions, and i strive to address issues promptly. Thank you for helping improve this project!
 
 ## License
 
@@ -83,3 +106,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## References
 
 - Rahman, M., & Geiger, D. (2016). ["Quantum Clustering and Gaussian Mixtures"](https://arxiv.org/pdf/1612.09199v1).
+
