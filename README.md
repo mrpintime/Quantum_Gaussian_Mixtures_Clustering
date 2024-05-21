@@ -79,10 +79,10 @@ I welcome contributions to enhance this project. To contribute, follow these ste
 
 If you encounter any mistakes or issues in the code, i greatly appreciate your help in making this project better. Please follow the steps below to report any problems:
 
-1. **Check Existing Issues**: Before submitting a new issue, please check the [Issues]([https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab to see if your problem has already been reported. This helps us avoid duplicate reports and consolidate efforts.
+1. **Check Existing Issues**: Before submitting a new issue, please check the [Issues](https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab to see if your problem has already been reported. This helps us avoid duplicate reports and consolidate efforts.
 
 2. **Create a New Issue**:
-   - Go to the [Issues]([https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab in the repository.
+   - Go to the [Issues](https://github.com/mrpintime/Quantum_Gaussian_Mixtures_Clustering/issues) tab in the repository.
    - Click on the `New Issue` button.
    - Provide a descriptive title for your issue.
    - In the issue description, please include:
